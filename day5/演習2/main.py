@@ -285,3 +285,5 @@ if __name__ == "__main__":
     # ベースラインとの比較
     baseline_ok = ModelTester.compare_with_baseline(metrics)
     print(f"ベースライン比較: {'合格' if baseline_ok else '不合格'}")
+#   �]R�0�0�0�0 
+ 
